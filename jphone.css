@@ -1,0 +1,176 @@
+
+.phone {
+border: 5px #FFE4B5 ridge ;
+border-radius: 10px;
+margin-top: 20px;
+width: 286px;
+background-color: #FFE4B5;
+font-size: 11px;
+color: white;
+height: 500px;
+} 
+
+.camera {
+height: 15px;
+width:  15px;
+border-radius: 50%;
+background: #000;
+position: relative;
+top: 15px;
+left: -70px;
+}
+
+ .dot {
+height: 5px;
+width:  5px;
+border-radius: 50%;
+background:  #2B3856;
+position: relative;
+top: 5px;
+left: -70px;
+}
+
+.speaker {
+width: 75px;
+border: 4px   #E2A76F outset;
+border-radius: 4px;
+background: 000;
+position: relative;
+top: -2px;
+left: 20px;
+}
+
+.dots li {
+display: inline-block;
+width: 3px;
+height: 3px;
+background: #463E3F;
+border-radius: 50%;
+margin: 2px;
+position: relative;
+top: -23px;
+}
+
+h1 {
+color: #FFF8DC;
+font-size: 25px;
+font-family: "Roboto",sans-serif;
+position: relative;
+top: -10px;
+font-weight: 500px;
+}
+
+.border {
+width: 105px;
+height: 40px;
+border-top: 1px  solid white;
+border-left: 1px solid white;
+border-bottom: 1px  solid white;
+position: relative;
+top: -63px;
+border-radius: 20px;
+}
+
+.screen {
+height: 330px;
+width:  260px;
+border-radius: 6px;
+border: 3px inset;
+background: url(background/image);
+position: relative;
+top: -50px;
+left: 2px;
+}
+
+
+.icons  li {
+display: inline-block;
+position: relative;
+top: -120px;
+left: -18px;
+margin: 5px;
+}
+
+img {
+width: 35px;
+height: 35px;
+border-radius: 50%;
+}
+
+.btn0 {
+color: #fff;
+font-size: 32px;
+position: relative;
+top: -10px;
+outline: none;
+text-decoration: none;
+}
+
+
+.btn-1 {
+color: #FFFACD;
+font-size: 40px;
+outline: none;
+text-decoration: none;
+position: relative;
+top: -125px;
+float: right;
+right: 30px;
+}
+
+.btn-2 {
+width: 40px;
+font-size: 21px;
+border-radius: 50px;
+border: 4px solid  #DEB887;
+color:  transparent;
+background: #FFFACD;
+position: relative;
+top: -112px;
+left: 0px;
+}
+
+
+.btn-3 {
+width: 30px;
+font-size: 14px;
+border-radius: 1px;
+border-bottom: 3px solid  #FFFACD;
+border-top: 3px solid  #FFFACD;
+color:  transparent;
+display: inline-block;
+position: relative;
+top: -111px;
+float: left;
+left: 30px;
+}
+
+
+.menu  li {
+display: inline-block;
+position: relative;
+top: -400px;
+left: -20px;
+margin: 14px;
+z-index: 2;
+}
+
+.icons-image img {
+width: 38px;
+height: 38px;
+border-radius: 50%;
+margin: 0px;
+}
+
+#time {
+color: #fff;
+font-size: 15px;
+font-size: "Roboto",sans-serif;
+position: relative;
+top: 160px;
+z-index: 3;
+}
+.alt {
+color: #fff;
+font-family: "Roboto",sans-serif;
+}
